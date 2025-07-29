@@ -1,4 +1,4 @@
-PLEASE NOTE:
+NOTE:
 WE HAVE **RENAMED** OUR CALLS FILE TO --> **new_calls.csv**
                     CUSTOMERS TO  --> **customers.csv**
                     TEST to       --> **testbc.csv**
